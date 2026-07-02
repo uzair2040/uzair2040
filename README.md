@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=36BCF7&center=true&vCenter=true&width=435&lines=AI/ML+Engineer;..." alt="Typing SVG" />
 
-<!--
-**uzair2040/uzair2040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+# Uzair Ahmed!
+x AI Intern @ **Confinality**<br>
+Computer Science graduate from **FAST NUCES**<br>
+uzairahmed2040@gmail.com ← Feel free to reach out
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### what i work with
+
+**Data Scientist** — Python, SQL, AWS <br>
+  
+
+---
+## Connect with me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uzairahmed2040@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzair2040/)
+
+</div>
